@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
     private static String METHOD_NAME1 = "checkUserLogin";
     private static String URL = "http://sms.dialy.net/DialyServices/SMSQWS.asmx";
 
-
+//je suis un commentaire
   @Override
 
   public void onCreate(Bundle savedInstanceState)
