@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">smsonline</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pass"><u>Mot de passe oublié ?</u></string>
+    <string name="inscription"><u>Inscrivez-vous maintenant !</u></string>
+</resources>
